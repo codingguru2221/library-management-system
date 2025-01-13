@@ -1,0 +1,15 @@
+LIBRARY MANAGEMENT SYSTEM
+start
+ragistration
+    |---name
+    |---id(randomly genreted)
+id regenrate 
+    |---otp genreted(with help to id)
+login
+    user id 
+option 
+    book reading
+    book issue
+book management 
+    
+    
